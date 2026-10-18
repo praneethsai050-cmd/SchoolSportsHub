@@ -14,8 +14,11 @@
   <a href="https://praneethsai050-cmd.github.io">
     <img src="https://img.shields.io/badge/Author-A._Praneeth_Sai-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://wa.me/918777679256?text=Hi%20Praneeth%2C%20saw%20SchoolSportsHub%20and%20wanted%20to%20connect!">
-    <img src="https://img.shields.io/badge/WhatsApp-+91_87776_79256-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://www.linkedin.com/in/a-praneeth-sai-089023289/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:praneethsai050@gmail.com">
+    <img src="https://img.shields.io/badge/Email-praneethsai050@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://youtube.com/@flixyte">
     <img src="https://img.shields.io/badge/YouTube-@flixyte-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
@@ -212,9 +215,6 @@ SchoolSportsHub/
 ## 📬 Direct Transmission Hub
 
 <p align="center">
-  <a href="https://wa.me/918777679256?text=Hi%20Praneeth%2C%20saw%20SchoolSportsHub%20and%20wanted%20to%20connect!">
-    <img src="https://img.shields.io/badge/WhatsApp-+91_87776_79256-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/a-praneeth-sai-089023289/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
